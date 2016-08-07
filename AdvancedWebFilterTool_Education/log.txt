@@ -1,0 +1,17 @@
+BLCOK! site : www.nate.com ip.SrcAddr=192.168.32.236 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=192.168.32.236 ip.DstAddr=120.50.132.112
+BLCOK! site : gilgil.net ip.SrcAddr=192.168.32.236 ip.DstAddr=121.131.52.53
+BLCOK! site : gilgil.net ip.SrcAddr=192.168.32.236 ip.DstAddr=121.131.52.53
+BLCOK! site : www.nate.com ip.SrcAddr=192.168.43.111 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=192.168.43.111 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.131.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.131.112
+BLCOK! site : statetc.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.129.111
+BLCOK! site : stat.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.129.110
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.131.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.132.112
+BLCOK! site : www.nate.com ip.SrcAddr=172.30.1.5 ip.DstAddr=120.50.132.112
